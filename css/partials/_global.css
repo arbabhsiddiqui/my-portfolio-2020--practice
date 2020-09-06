@@ -1,7 +1,7 @@
 /* Global Classes */
 
 .title-text {
-  font: normal bold 50px/ 72px var(--roboto);
+  font: normal 900 50px/ 72px var(--roboto);
   color: var(--text-color);
 }
 
@@ -13,7 +13,7 @@
 
 .button {
   padding: 0.8rem 2.2rem;
-  font: normal 500 16px/20px var(--roboto);
+  font: normal 600 16px/20px var(--roboto);
   position: relative;
   border: 3px solid transparent;
   border-radius: 4px;
@@ -88,4 +88,8 @@ button:active button:hover .btn:active,
   box-shadow: var(--box-shadow);
   z-index: 999;
   transition: background 1s ease;
+}
+
+.text-green {
+  color: var(--primary-color);
 }

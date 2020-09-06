@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap");
 
 html,
 body {
@@ -23,5 +23,5 @@ body {
   --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
 
   /* font family variables. */
-  --roboto: "Roboto", sans-serif;
+  --roboto: "Montserrat", sans-serif;
 }
